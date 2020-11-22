@@ -13,4 +13,9 @@ Este es un texto **importante**
     * Ingresar a la carpeta: cd
     * Listar carpeta: ls
     * Eliminar carpeta: rm -rf
-* Mardown Basico
+* Markdown Basico
+* Manejo basico de archivo 
+    * Abrir un archivo
+    * Leer el contenido 
+    * Modificar el contenido
+    * Cerrar el archivo
